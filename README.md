@@ -2,7 +2,7 @@
 - 👀 I’m interested in electronics, programming, IOT, and self-hosting.
 - 🌱 I’m currently learning python apps using Flask and Django.
 - I have also started working on Node.js web development
-- My larger projects have been moved to my ProgrammingAway organization
+- My larger projects have been moved to my [ProgrammingAway](https://github.com/ProgrammingAway) organization
 - 📫 You can reach me by email at github@theladners.com
 
 <!---
